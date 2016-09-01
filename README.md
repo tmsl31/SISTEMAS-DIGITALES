@@ -1,2 +1,2 @@
 # hello-world
-primer repositorio
+primer repositorio, gitHub dijo que lo crease
