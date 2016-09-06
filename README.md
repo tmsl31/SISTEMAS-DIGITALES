@@ -1,2 +1,2 @@
 # hello-world
-$\frac{a}{b}$
+$\dfrac{a}{b}$
